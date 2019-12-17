@@ -1,7 +1,7 @@
 ## Mini Project 3 - Created by Sneha Philip
 The project was an assignment for the course IS601. The project is split into 4 parts.
 
-To view the Heroku Deployment, please click here.
+To view the Heroku Deployment, please click [here](https://snehatestapp.herokuapp.com/).
 
 More information about all the parts can be found below:
 
